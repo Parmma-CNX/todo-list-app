@@ -1,0 +1,32 @@
+h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 32.81px;
+}
+
+.progress-bar {
+  height: 7.34px;
+  background-color: #3b3b3b;
+  color: white;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 5px;
+}
+
+.progress-bar-update {
+  height: 25px;
+  background-color: #ffffff;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 5px;
+}
+
+.box-container {
+  width: 518px;
+  height: 123px;
+  background-color: #e07c7c;
+  border-radius: 20px;
+  box-sizing: border-box;
+  margin: 61px auto 32px;
+}

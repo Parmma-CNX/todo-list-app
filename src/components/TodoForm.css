@@ -1,0 +1,10 @@
+.form-container {
+  width: 518px;
+  height: 46px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.input-todo {
+  border-radius: 9999px;
+}

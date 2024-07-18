@@ -1,0 +1,37 @@
+.container {
+  background-color: #f5f5f5;
+  margin: 42px auto 0;
+  width: 720px;
+  height: 620px;
+  border-radius: 20px;
+}
+
+.filter-section {
+  margin: 0 auto 16px;
+  width: 518px;
+  height: 29px;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.padding-0 {
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.todo-items-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.todo-items-container:last-child {
+  margin-bottom: 16px;
+}

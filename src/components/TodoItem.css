@@ -1,0 +1,20 @@
+.todo-item-container {
+  width: 518px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #ffffff;
+  border-radius: 9999px;
+  height: 46px;
+}
+
+.todo-ellipse {
+  text-align: right;
+}
+
+.todo-items {
+  height: 46px;
+}
+
+.todo-items span {
+  vertical-align: middle;
+}
